@@ -4,14 +4,14 @@
 :root{
     --yellow:#f9ca24;
     --blue:#010326;
-    --green:#04BF9D;
+    /* --green:#04BF9D;
     --orange:#F27405;
     --red:#F20505;
     --purple:#8B428C;
     --mattorange:#F24949;
     --mattyellow:#F29F05;
     --mattpink:#F24949;
-    --mattblue:#4580ce;
+    --mattblue:#4580ce; */
 }
 
 *{
@@ -143,24 +143,24 @@ header .navbar ul li a{
 }
 
 header .navbar ul li a:hover{
-    background:#F20505;
-}
-
-/* header .navbar ul li a:hover{
     background:var(--yellow);
 }
 
-header .navbar ul li a:hover{
-    background:var(--yellow);
-}
+    /* header .navbar ul li a:hover{
+        background:var(--yellow);
+    }
 
-header .navbar ul li a:hover{
-    background:var(--yellow);
-}
+    header .navbar ul li a:hover{
+        background:var(--yellow);
+    }
 
-header .navbar ul li a:hover{
-    background:var(--yellow);
-} */
+    header .navbar ul li a:hover{
+        background:var(--yellow);
+    }
+
+    header .navbar ul li a:hover{
+        background:var(--yellow);
+    }  */
 
 #menu{
     position: fixed;
@@ -257,6 +257,9 @@ header .navbar ul li a:hover{
 .about .row .counter .box h3{
     font-size: 2rem;
     color:#fff;
+}
+.rs{
+    background-color: #4580ce;
 }
 
 .education{
