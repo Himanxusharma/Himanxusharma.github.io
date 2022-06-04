@@ -515,13 +515,14 @@ header .navbar ul li a:hover{
 
 
 .Sqbtn{
-    padding:40px 40px;
+    padding:4rem 4rem;
     background:#333;
     color:#fff;
     cursor: pointer;
     margin-top: 1rem;
+    margin-right: 2rem;
     font-size: 2rem;
-  margin: 0;
+    
 }
 
 .Sqbtn i{
