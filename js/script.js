@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 $(document).ready(function(){
 
     $('#menu').click(function(){
@@ -37,3 +38,6 @@ $(document).ready(function(){
     });
   
   });
+=======
+
+>>>>>>> 8ef17d5a7dfe2b72ae6ece7cff5e7ecad1b1cb67
